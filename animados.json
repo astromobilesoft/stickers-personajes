@@ -1,0 +1,678 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "divisionpalermo1",
+      "name": "División Palermo",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "granhermano2022l",
+      "name": "GH Animados (12)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "granhermano2022m",
+      "name": "GH Animados (13)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022w5",
+      "name": "Argentina Campeón (5)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022w6",
+      "name": "Argentina Campeón (6)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022previavsfrancia2",
+      "name": "Previa Final (2)",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
+      "identifier": "granhermano2022c",
+      "name": "GH Animados (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "granhermano2022d",
+      "name": "GH Animados (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "granhermano2022e",
+      "name": "GH Animados (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "memes15",
+      "name": "Memes 15",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "polficshion",
+      "name": "Pol Ficshion",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "miguelycogote",
+      "name": "Miguel y Cogote",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "billetes9dejulio",
+      "name": "Billetes 9 de Julio",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "locomotoraolivera1",
+      "name": "Locomotora Oliveras 1",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "memes12",
+      "name": "Memes 12",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "robleis1",
+      "name": "Robleis",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "belito",
+      "name": "Belito",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "elhoteldelosfamosos3",
+      "name": "Hotel Famosos (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "maradona7",
+      "name": "Maradona Bailando",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "animados7",
+      "name": "Personajes 7",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "elhoteldelosfamosos3",
+      "name": "Hotel Famosos (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "elhoteldelosfamosos4",
+      "name": "Hotel Famosos (4)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "caserovsmajul1",
+      "name": "Casero vs Majul",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "animados5",
+      "name": "Personajes 5",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "animados6",
+      "name": "Personajes 6",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "elhoteldelosfamosos2",
+      "name": "Hotel Famosos (2)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "oscars2022a1",
+      "name": "Oscars 2022 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "gaspi1",
+      "name": "Gaspi (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "memes9",
+      "name": "Memes 7",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "guilleaquino1",
+      "name": "Guille Aquino",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "masterchef2021b",
+      "name": "Masterchef 2021 (1)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "masterchef2021c",
+      "name": "Masterchef 2021 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "nosmatamos",
+      "name": "Nos Matamos",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "albertofernandez3",
+      "name": "Alberto Fernandez (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "macria3",
+      "name": "Mauricio Macri (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "javiermilei2",
+      "name": "Javier Milei (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "izquierdaa1",
+      "name": "Frente Izquierda",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "marcelotinelli1",
+      "name": "Marcelo Tinelli",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "memes6",
+      "name": "Memes (6)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "prestico",
+      "name": "Prestico",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "lamonajimenez1",
+      "name": "La Mona Jimenez (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "lamonajimenez2",
+      "name": "La Mona Jimenez (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "momentosdelatv2",
+      "name": "Momentos de la TV (2)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "momentosdelatv",
+      "name": "Momentos de la TV (1)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "javiermilei1",
+      "name": "Javier Milei",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "gasalla1",
+      "name": "Antonio Gasalla",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "eljuegodelcalamar1",
+      "name": "El Juego del Calamar 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "eljuegodelcalamar2",
+      "name": "El Juego del Calamar 2",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "capusottoa1",
+      "name": "Capusotto (3)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "mdqsurf",
+      "name": "MDQ Surf",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "lacasadepapel1",
+      "name": "La Casa de Papel 1",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "lacasadepapel2",
+      "name": "La Casa de Papel 2",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "susanagimenez1",
+      "name": "Susana Gimenez",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "paulinacocina",
+      "name": "Paulina Cocina",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "memes4",
+      "name": "Memes (4)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "mariabecerra1",
+      "name": "Maria Becerra (1)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "mariabecerra2",
+      "name": "Maria Becerra (2)",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "niembro",
+      "name": "Fernando Niembro",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "memes3",
+      "name": "Memes (3)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "cazzu1",
+      "name": "Cazzu (1)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "cazzu2",
+      "name": "Cazzu (2)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "minguito",
+      "name": "Minguito",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "lgante",
+      "name": "L-Gante",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "moriacasana1",
+      "name": "Moria Casan (1)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "moriacasana2",
+      "name": "Moria Casan (2)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "lavoz3",
+      "name": "La Voz (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "lavozlali1",
+      "name": "La Voz Lali (1)",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "lavozlali2",
+      "name": "La Voz Lali (2)",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "tinia1",
+      "name": "Tini",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "okupas1",
+      "name": "Okupas (1)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "okupas2",
+      "name": "Okupas (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "educandoanina",
+      "name": "Educando a Nina",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "latanaferro1",
+      "name": "La Tana Ferro (1)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "latanaferro2",
+      "name": "La Tana Ferro (2)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "guidokaczkaa1",
+      "name": "Guido Kaczka (2)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "mariaelenafuseneco",
+      "name": "Maria Elena Fuseneco",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "lachabona1",
+      "name": "La Chabona (1)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "lachabona2",
+      "name": "La Chabona (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "malafamaa1",
+      "name": "Mala Fama (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "malafamaa2",
+      "name": "Mala Fama (3)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "olmedoa1",
+      "name": "Alberto Olmedo (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "maradona6",
+      "name": "Maradona (6)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "damianbetular1",
+      "name": "Damian Betular 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "damianbetular2",
+      "name": "Damian Betular 2",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "animados4",
+      "name": "Personajes 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "rickyforta1",
+      "name": "Ricardo Fort (2)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "macria1",
+      "name": "Mauricio Macri 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "macria2",
+      "name": "Mauricio Macri 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "marginala2",
+      "name": "El Marginal 3",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "marginala1",
+      "name": "El Marginal 2",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "simuladoresa1",
+      "name": "Los Simuladores 3",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "simuladoresa2",
+      "name": "Los Simuladores 4",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "casadosa1",
+      "name": "Casados con Hijos",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "carrozaa1",
+      "name": "Esperando la Carroza (1)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "carrozaa2",
+      "name": "Esperando la Carroza (2)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "carrozaa3",
+      "name": "Esperando la Carroza (3)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "cristina1",
+      "name": "Cristina Fernandez",
+      "animated_sticker_pack": true,
+      "stickers": "22"
+    },
+    {
+      "identifier": "larreta1",
+      "name": "Rodriguez Larreta",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "albertofernandez1",
+      "name": "Alberto Fernandez",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "memes2",
+      "name": "Memes (2)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "kunaguero2",
+      "name": "Kun Aguero (2)",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dariobarassi2",
+      "name": "Dario Barassi (2)",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "benditatv2",
+      "name": "Bendita Tv (2)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "capusotto2",
+      "name": "Capusotto (2)",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "pepeargento2",
+      "name": "Pepe Argento 2",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "memesconfrases1",
+      "name": "Memes con Frases 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "masterchef2021a",
+      "name": "Masterchef 2021",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "ruggeri1",
+      "name": "Ruggeri",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "animados3",
+      "name": "Maradona",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "animados1",
+      "name": "Animados 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "animados2",
+      "name": "Animados 2",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "samidvsviale",
+      "name": "Samid vs Viale",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    }
+  ]
+}

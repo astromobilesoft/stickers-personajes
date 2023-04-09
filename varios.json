@@ -1,0 +1,108 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "sergioberni1",
+      "name": "Sergio Berni (1)",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "albertofernandez4",
+      "name": "Alberto Fernandez 4",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "albertofernandez5",
+      "name": "Alberto Fernandez 5",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "diadelzurdo",
+      "name": "Día del Zurdo",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "robleis1",
+      "name": "Robleis",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "belito",
+      "name": "Belito",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "juevessanto",
+      "name": "Jueves Santo",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "domingoderamos1",
+      "name": "Domingo de Ramos",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "anonuevo22",
+      "name": "Pack Feliz Año (2)",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "anonuevo21",
+      "name": "Pack Feliz Año (1)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "navidad",
+      "name": "Pack Navidad",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "noquis29b",
+      "name": "Noquis 29",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "amongus",
+      "name": "Pack Among Us",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "faceapp1",
+      "name": "Pack FaceApp",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "cuarentena",
+      "name": "Pack Memes Cuarentena",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "carpincho",
+      "name": "Pack Carpincho",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "fiesta",
+      "name": "Feliz Dia del Trabajador",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    }
+  ]
+}
