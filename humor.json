@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "memes16",
+      "name": "Memes 16",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "memes17",
+      "name": "Memes 17",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
       "identifier": "francella",
       "name": "Guillermo Francella",
       "animated_sticker_pack": false,
