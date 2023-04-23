@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "thiagoyleo",
+      "name": "Thiago y Leo",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
       "identifier": "divisionpalermo1",
       "name": "División Palermo",
       "animated_sticker_pack": true,
