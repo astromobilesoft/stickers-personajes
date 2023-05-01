@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "diatrabajador2",
+      "name": "Día Trabajador (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "diatrabajador",
+      "name": "Día Trabajador (1)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
       "identifier": "thiagoyleo",
       "name": "Thiago y Leo",
       "animated_sticker_pack": true,
@@ -481,18 +493,6 @@
       "name": "Personajes 6",
       "animated_sticker_pack": true,
       "stickers": "10"
-    },
-    {
-      "identifier": "diatrabajador2",
-      "name": "Día Trabajador (2)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "diatrabajador",
-      "name": "Día Trabajador (1)",
-      "animated_sticker_pack": false,
-      "stickers": "22"
     },
     {
       "identifier": "elhoteldelosfamosos1",

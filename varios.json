@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "diatrabajador",
+      "name": "Día Trabajador (1)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "diatrabajador2",
+      "name": "Día Trabajador (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "sergioberni1",
       "name": "Sergio Berni (1)",
       "animated_sticker_pack": false,
@@ -97,12 +109,6 @@
       "name": "Pack Carpincho",
       "animated_sticker_pack": false,
       "stickers": "30"
-    },
-    {
-      "identifier": "fiesta",
-      "name": "Feliz Dia del Trabajador",
-      "animated_sticker_pack": false,
-      "stickers": "22"
     }
   ]
 }
