@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "pajin2",
+      "name": "Pajin (2)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
       "identifier": "thiagoyleo",
       "name": "Thiago y Leo",
       "animated_sticker_pack": true,

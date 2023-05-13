@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "pajin1",
+      "name": "Pajin (1)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "pajin2",
+      "name": "Pajin (2)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
       "identifier": "diatrabajador2",
       "name": "Día Trabajador (2)",
       "animated_sticker_pack": false,
