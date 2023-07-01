@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "memesjulio4",
+      "name": "Memes Julio (4)",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
       "identifier": "memesjulio1",
       "name": "Memes Julio (1)",
       "animated_sticker_pack": false,
