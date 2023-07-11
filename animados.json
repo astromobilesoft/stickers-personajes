@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "maradona8",
+      "name": "Maradona (8)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
       "identifier": "morenarial",
       "name": "Morena Rial",
       "animated_sticker_pack": true,
