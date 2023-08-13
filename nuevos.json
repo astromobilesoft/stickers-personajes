@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "elecciones2023",
+      "name": "Elecciones 2023",
+      "animated_sticker_pack": true,
+      "stickers": "29"
+    },
+    {
       "identifier": "memes18",
       "name": "Memes 18",
       "animated_sticker_pack": true,
