@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "javiermilei3",
+      "name": "Javier Milei (3)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "javiermilei4",
+      "name": "Javier Milei (4)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
       "identifier": "carlitosbala1",
       "name": "Carlitos Balá",
       "animated_sticker_pack": false,

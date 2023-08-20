@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "javiermilei1",
+      "name": "Javier Milei (1)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "javiermilei2",
+      "name": "Javier Milei (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "memes18",
       "name": "Memes 18",
       "animated_sticker_pack": true,
@@ -237,12 +249,6 @@
       "stickers": "12"
     },
     {
-      "identifier": "javiermilei2",
-      "name": "Javier Milei (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
       "identifier": "izquierdaa1",
       "name": "Frente Izquierda",
       "animated_sticker_pack": true,
@@ -289,12 +295,6 @@
       "name": "Momentos de la TV (1)",
       "animated_sticker_pack": true,
       "stickers": "16"
-    },
-    {
-      "identifier": "javiermilei1",
-      "name": "Javier Milei",
-      "animated_sticker_pack": true,
-      "stickers": "13"
     },
     {
       "identifier": "gasalla1",
