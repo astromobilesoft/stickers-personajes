@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "susanagimenez2",
+      "name": "Susana Gimenez (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "susanagimenez3",
+      "name": "Susana Gimenez (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier": "javiermilei1",
       "name": "Javier Milei (1)",
       "animated_sticker_pack": true,
