@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"taylorswift1",
+         "name":"Taylor Swift (1)",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"taylorswift2",
+         "name":"Taylor Swift (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
          "identifier":"taylorswift3",
          "name":"Taylor Swift (3)",
          "animated_sticker_pack":false,
@@ -13,18 +25,6 @@
          "name":"Taylor Swift (4)",
          "animated_sticker_pack":true,
          "stickers":"19"
-      },
-      {
-         "identifier":"taylorswift2",
-         "name":"Taylor Swift (2)",
-         "animated_sticker_pack":false,
-         "stickers":"23"
-      },
-      {
-         "identifier":"taylorswift1",
-         "name":"Taylor Swift (1)",
-         "animated_sticker_pack":false,
-         "stickers":"12"
       },
       {
          "identifier":"iorio",
