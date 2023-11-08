@@ -1,102 +1,114 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
-  "ios_app_store_link": "",
-  "sticker_packs": [
-    {
-      "identifier": "iorio",
-      "name": "Ricardo Iorio",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "lajoaqui1",
-      "name": "La Joaqui",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "taylorswift2",
-      "name": "Taylor Swift (2)",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "taylorswift1",
-      "name": "Taylor Swift (1)",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "shakira2",
-      "name": "Shakira (2)",
-      "animated_sticker_pack": true,
-      "stickers": "19"
-    },
-    {
-      "identifier": "shakira1",
-      "name": "Shakira (1)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "gustavocerati1",
-      "name": "Gustavo Cerati",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "sandro1",
-      "name": "Sandro",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "charlygarciaa1",
-      "name": "Charly Garcia (2)",
-      "animated_sticker_pack": true,
-      "stickers": "7"
-    },
-    {
-      "identifier": "charlygarcia",
-      "name": "Charly Garcia",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "gilda",
-      "name": "Gilda",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "astorpiazzolla",
-      "name": "Astor Piazzolla",
-      "animated_sticker_pack": false,
-      "stickers": "11"
-    },
-    {
-      "identifier": "losredondos",
-      "name": "Los Redondos",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "eldipy",
-      "name": "El Dipy",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "pablolescano",
-      "name": "Pablo Lescano",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "malafama",
-      "name": "Stickers Mala Fama",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    }
-  ]
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"taylorswift3",
+         "name":"Taylor Swift (3)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"taylorswifta1",
+         "name":"Taylor Swift (4)",
+         "animated_sticker_pack":true,
+         "stickers":"19"
+      },
+      {
+         "identifier":"taylorswift2",
+         "name":"Taylor Swift (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"taylorswift1",
+         "name":"Taylor Swift (1)",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"iorio",
+         "name":"Ricardo Iorio",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"lajoaqui1",
+         "name":"La Joaqui",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"shakira2",
+         "name":"Shakira (2)",
+         "animated_sticker_pack":true,
+         "stickers":"19"
+      },
+      {
+         "identifier":"shakira1",
+         "name":"Shakira (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"gustavocerati1",
+         "name":"Gustavo Cerati",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"sandro1",
+         "name":"Sandro",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"charlygarciaa1",
+         "name":"Charly Garcia (2)",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
+         "identifier":"charlygarcia",
+         "name":"Charly Garcia",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"gilda",
+         "name":"Gilda",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"astorpiazzolla",
+         "name":"Astor Piazzolla",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"losredondos",
+         "name":"Los Redondos",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"eldipy",
+         "name":"El Dipy",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"pablolescano",
+         "name":"Pablo Lescano",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"malafama",
+         "name":"Stickers Mala Fama",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      }
+   ]
 }
