@@ -3,6 +3,42 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"sergiomassa1",
+         "name":"Sergio Massa (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"sergiomassa2",
+         "name":"Sergio Massa (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"javiermilei3",
+         "name":"Javier Milei (3)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"javiermilei4",
+         "name":"Javier Milei (4)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },      
+      {
+         "identifier":"javiermilei1",
+         "name":"Javier Milei (1)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"javiermilei2",
+         "name":"Javier Milei (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier":"memes19",
          "name":"Memes 19",
          "animated_sticker_pack":true,
@@ -79,30 +115,6 @@
          "name":"Susana Gimenez (3)",
          "animated_sticker_pack":true,
          "stickers":"15"
-      },
-      {
-         "identifier":"javiermilei1",
-         "name":"Javier Milei (1)",
-         "animated_sticker_pack":true,
-         "stickers":"13"
-      },
-      {
-         "identifier":"javiermilei2",
-         "name":"Javier Milei (2)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"javiermilei3",
-         "name":"Javier Milei (3)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"javiermilei4",
-         "name":"Javier Milei (4)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
       },
       {
          "identifier":"elecciones2023",
