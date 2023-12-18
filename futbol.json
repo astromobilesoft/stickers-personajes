@@ -1,240 +1,252 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
-  "ios_app_store_link": "",
-  "sticker_packs": [
-    {
-      "identifier": "maradona10",
-      "name": "Maradona (10)",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "maradona9",
-      "name": "Maradona (9)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "maradona8",
-      "name": "Maradona (8)",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "maradona7",
-      "name": "Maradona (7)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "maradona6",
-      "name": "Maradona (6)",
-      "animated_sticker_pack": true,
-      "stickers": "16"
-    },
-    {
-      "identifier": "maradona5",
-      "name": "Reacciones Maradona 2",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "maradona4",
-      "name": "Reacciones Maradona",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "maradona3",
-      "name": "Frases Maradona",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "maradona2",
-      "name": "Pack Maradona 2",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "maradona",
-      "name": "Stickers Maradona",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "lafiestadelcampeon",
-      "name": "La Fiesta del Campeón",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "worldcup2022w13",
-      "name": "Argentina Campeón Caravana",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "worldcup2022w10",
-      "name": "Argentina Campeón (10)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022w11",
-      "name": "Argentina Campeón (11)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022w12",
-      "name": "Argentina Campeón (12)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022w7",
-      "name": "Argentina Campeón (7)",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "worldcup2022w8",
-      "name": "Argentina Campeón (8)",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "worldcup2022w9",
-      "name": "Argentina Campeón (9)",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "worldcup2022w5",
-      "name": "Argentina Campeón (5)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "worldcup2022w6",
-      "name": "Argentina Campeón (6)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "worldcup2022w4",
-      "name": "Argentina Campeón (4)",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "worldcup2022w3",
-      "name": "Argentina Campeón (3)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022w2",
-      "name": "Argentina Campeón (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022w1",
-      "name": "Argentina Campeón",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "worldcup2022previavsfrancia1",
-      "name": "Previa Final (1)",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "worldcup2022previavsfrancia2",
-      "name": "Previa Final (2)",
-      "animated_sticker_pack": true,
-      "stickers": "6"
-    },
-    {
-      "identifier": "messiqatar1",
-      "name": "Messi Qatar",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022s1d",
-      "name": "Festejos Semifinal",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "bilardo1",
-      "name": "Bilardo (1)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "bilardo2",
-      "name": "Bilardo (2)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "ad10s",
-      "name": "Pack AD10S",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "kunaguero",
-      "name": "Pack Kun Aguero",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "messi",
-      "name": "Pack Messi",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "dichosfutbol1",
-      "name": "Dichos Futbol 1",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "dichosfutbol2",
-      "name": "Dichos Futbol 2",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "personajesfutbol",
-      "name": "Personajes Futbol",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "90minutos1",
-      "name": "Stickers 90 Minutos (1)",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "90minutos2",
-      "name": "Stickers 90 Minutos (2)",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "rabonushka",
-      "name": "Stickers Rabonushka",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    }
-  ]
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"worldcup2022w1",
+         "name":"Argentina Campeón (1)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"worldcup2022w2",
+         "name":"Argentina Campeón (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w3",
+         "name":"Argentina Campeón (3)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w4",
+         "name":"Argentina Campeón (4)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"worldcup2022w5",
+         "name":"Argentina Campeón (5)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"worldcup2022w6",
+         "name":"Argentina Campeón (6)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"worldcup2022w7",
+         "name":"Argentina Campeón (7)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w8",
+         "name":"Argentina Campeón (8)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w9",
+         "name":"Argentina Campeón (9)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w10",
+         "name":"Argentina Campeón (10)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w11",
+         "name":"Argentina Campeón (11)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w12",
+         "name":"Argentina Campeón (12)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w13",
+         "name":"Argentina Campeón (13)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022w14",
+         "name":"Argentina Campeón (14)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w15",
+         "name":"Argentina Campeón (15)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"maradona10",
+         "name":"Maradona (10)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"maradona9",
+         "name":"Maradona (9)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"maradona8",
+         "name":"Maradona (8)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"maradona7",
+         "name":"Maradona (7)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"maradona6",
+         "name":"Maradona (6)",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"maradona5",
+         "name":"Reacciones Maradona 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"maradona4",
+         "name":"Reacciones Maradona",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"maradona3",
+         "name":"Frases Maradona",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"maradona2",
+         "name":"Pack Maradona 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"maradona",
+         "name":"Stickers Maradona",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"lafiestadelcampeon",
+         "name":"La Fiesta del Campeón",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"worldcup2022previavsfrancia1",
+         "name":"Previa Final (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022previavsfrancia2",
+         "name":"Previa Final (2)",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
+         "identifier":"messiqatar1",
+         "name":"Messi Qatar",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022s1d",
+         "name":"Festejos Semifinal",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"bilardo1",
+         "name":"Bilardo (1)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"bilardo2",
+         "name":"Bilardo (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"ad10s",
+         "name":"Pack AD10S",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"kunaguero",
+         "name":"Pack Kun Aguero",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"messi",
+         "name":"Pack Messi",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"dichosfutbol1",
+         "name":"Dichos Futbol 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"dichosfutbol2",
+         "name":"Dichos Futbol 2",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"personajesfutbol",
+         "name":"Personajes Futbol",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"90minutos1",
+         "name":"Stickers 90 Minutos (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"90minutos2",
+         "name":"Stickers 90 Minutos (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"rabonushka",
+         "name":"Stickers Rabonushka",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      }
+   ]
 }
