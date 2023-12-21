@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"verano",
+         "name":"Verano (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"verano2023",
+         "name":"Verano (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier":"granhermano2023b",
          "name":"Gran Hermano 2023 (2)",
          "animated_sticker_pack":false,
