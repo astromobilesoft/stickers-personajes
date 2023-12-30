@@ -3,6 +3,48 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"anonuevo24a1",
+         "name":"Feliz Año 2024 (1)",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
+         "identifier":"anonuevo24a2",
+         "name":"Feliz Año 2024 (2)",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
+         "identifier":"anonuevo1",
+         "name":"Feliz Año Nuevo (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"anonuevo2",
+         "name":"Feliz Año Nuevo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"anonuevo3",
+         "name":"Feliz Año Nuevo (3)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"anonuevo4",
+         "name":"Feliz Año Nuevo (4)",
+         "animated_sticker_pack":true,
+         "stickers":"5"
+      },
+      {
+         "identifier":"anonuevoadornos",
+         "name":"Adornos Año Nuevo",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
          "identifier":"navidad",
          "name":"Feliz Navidad (7)",
          "animated_sticker_pack":false,
