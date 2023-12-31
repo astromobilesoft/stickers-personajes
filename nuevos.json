@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"anonuevo6",
+         "name":"Feliz Año Nuevo (6)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier":"anonuevo5",
          "name":"Feliz Año Nuevo (5)",
          "animated_sticker_pack":true,
