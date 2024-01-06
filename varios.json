@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"reyesmagosa2",
+         "name":"Reyes Magos (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
          "identifier":"reyesmagos1a",
-         "name":"Reyes Magos",
+         "name":"Reyes Magos (1)",
          "animated_sticker_pack":false,
          "stickers":"7"
       },
