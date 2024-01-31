@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"calor1",
+         "name":"Calor (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"calor2",
+         "name":"Calor (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"calor3",
+         "name":"Calor (3)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"calor4",
+         "name":"Calor (4)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier":"reyesmagosa2",
          "name":"Reyes Magos (2)",
          "animated_sticker_pack":true,
