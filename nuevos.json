@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"granhermano2023a1",
+         "name":"Gran Hermano 2023 (4)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"granhermano2023a2",
+         "name":"GH 2023 Furia",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier":"mardelplata150",
          "name":"MDQ Felices 150",
          "animated_sticker_pack":true,
