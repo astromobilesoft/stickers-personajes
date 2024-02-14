@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"14febreroa1",
+         "name":"San Valentín",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
          "identifier":"granhermano2023a1",
          "name":"Gran Hermano 2023 (4)",
          "animated_sticker_pack":true,
