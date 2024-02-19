@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"memes21",
+         "name":"Memes (21)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"memes22",
+         "name":"Memes (22)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
          "identifier":"14febreroa1",
          "name":"San Valentín",
          "animated_sticker_pack":true,
