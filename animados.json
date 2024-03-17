@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"17marzoa1",
+         "name":"San Patricio",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
          "identifier":"8marzoa1",
          "name":"Día de la Mujer (2)",
          "animated_sticker_pack":true,
