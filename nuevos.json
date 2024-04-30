@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"diatrabajador",
+         "name":"Día Trabajador (1)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"diatrabajador2",
+         "name":"Día Trabajador (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"1mayo",
+         "name":"Día del Trabajador (3)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"1mayoa",
+         "name":"Día del Trabajador (4)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
          "identifier":"caropardiaco1",
          "name":"Caro Pardíaco",
          "animated_sticker_pack":false,
@@ -685,18 +709,6 @@
          "name":"Pajin (2)",
          "animated_sticker_pack":true,
          "stickers":"16"
-      },
-      {
-         "identifier":"diatrabajador2",
-         "name":"Día Trabajador (2)",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
-         "identifier":"diatrabajador",
-         "name":"Día Trabajador (1)",
-         "animated_sticker_pack":false,
-         "stickers":"22"
       },
       {
          "identifier":"thiagoyleo",
