@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"gordita",
+         "name":"Gordita",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"diatrabajador",
          "name":"Día Trabajador (1)",
          "animated_sticker_pack":false,
