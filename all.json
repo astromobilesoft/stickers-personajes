@@ -3,6 +3,84 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"diadelpadrea9",
+         "name":"Día del Padre (13)",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"diadelpadrea8",
+         "name":"Día del Padre (12)",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"diadelpadrea7",
+         "name":"Día del Padre (11)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"diadelpadrea6",
+         "name":"Día del Padre (10)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"diadelpadrea5",
+         "name":"Día del Padre (9)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"diadelpadrea4",
+         "name":"Día del Padre (8)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"diadelpadrea3",
+         "name":"Día del Padre (7)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"diadelpadrea2",
+         "name":"Día del Padre (6)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"diadelpadrea1",
+         "name":"Día del Padre (5)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"diadelpadre4",
+         "name":"Día del Padre (4)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"diadelpadre3",
+         "name":"Día del Padre (3)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"diadelpadre2",
+         "name":"Día del Padre (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"diadelpadre",
+         "name":"Día del Padre (1)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
          "identifier":"25mayoa3",
          "name":"25 de Mayo (4)",
          "animated_sticker_pack":true,
