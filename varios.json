@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seleccion2024a",
+         "name":"Selección Argentina",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"dibumartinez1",
+         "name":"Dibu Martinez",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
          "identifier":"diadelpadrea9",
          "name":"Día del Padre (13)",
          "animated_sticker_pack":true,
