@@ -21,6 +21,12 @@
          "stickers":"12"
       },
       {
+         "identifier":"camiseta2024a",
+         "name":"Camiseta Arg 2024 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"20junioa1",
          "name":"Día de la Bandera (1)",
          "animated_sticker_pack":true,
@@ -235,12 +241,6 @@
          "name":"San Patricio",
          "animated_sticker_pack":true,
          "stickers":"6"
-      },
-      {
-         "identifier":"camiseta2024a",
-         "name":"Camiseta Arg 2024 (1)",
-         "animated_sticker_pack":false,
-         "stickers":"30"
       },
       {
          "identifier":"8marzo",
