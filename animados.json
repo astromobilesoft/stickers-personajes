@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"28junioa1",
+         "name":"Día del Orgullo (2)",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
+         "identifier":"20junioa2",
+         "name":"Dia de la Bandera (3)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"20junioa3",
+         "name":"Dia de la Bandera (4)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier":"25mayoa3",
          "name":"25 de Mayo (4)",
          "animated_sticker_pack":true,
