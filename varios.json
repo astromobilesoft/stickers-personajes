@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"copaamerica2024fg3",
+         "name":"Argentina vs Ecuador",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaamerica2024fg2",
+         "name":"Argentina vs Chile",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaamerica2024fg1",
+         "name":"Argentina vs Canada",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"seleccion2024a",
          "name":"Selección Argentina (1)",
          "animated_sticker_pack":false,
