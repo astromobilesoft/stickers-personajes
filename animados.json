@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"golseleccion2024",
+         "name":"Gol Selección",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
          "identifier":"28junioa1",
          "name":"Día del Orgullo (2)",
          "animated_sticker_pack":true,
