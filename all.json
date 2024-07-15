@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seleccioncantitos2",
+         "name":"Cantitos Selección (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
          "identifier":"seleccioncantitos1",
-         "name":"Cantitos Selección",
+         "name":"Cantitos Selección (1)",
          "animated_sticker_pack":true,
          "stickers":"7"
       },
