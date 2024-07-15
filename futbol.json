@@ -3,8 +3,20 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"copaamerica2024w1",
+         "name":"Argentina Campeón (2)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"copaamerica2024w2",
+         "name":"Argentina Campeón (3)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"copaamerica2024f1",
-         "name":"Argentina Campeón",
+         "name":"Argentina Campeón (1)",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
