@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"juegosolimpicos2024a",
+         "name":"Maligno Oro Olimpico",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"gallardovuelve1",
+         "name":"Vuelve Gallardo",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
          "identifier":"20julioa2",
          "name":"Día del Amigo (5)",
          "animated_sticker_pack":true,
