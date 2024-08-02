@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"8agostoa1",
+         "name":"Día de la Cerveza (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"8agosto1",
+         "name":"Día de la Cerveza (2)",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"gololimpico1",
          "name":"Gol Olimpico",
          "animated_sticker_pack":true,
