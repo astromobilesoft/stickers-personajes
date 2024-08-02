@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"gololimpico1",
+         "name":"Gol Olimpico",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
          "identifier":"juegosolimpicos2024a",
          "name":"Maligno Oro Olimpico",
          "animated_sticker_pack":false,
