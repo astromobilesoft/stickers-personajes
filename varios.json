@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"diadelaninez1",
+         "name":"Día de la Niñez (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"diadelanineza1",
+         "name":"Día de la Niñez (2)",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
+         "identifier":"diadelnino",
+         "name":"Día de la Niñez (3)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
          "identifier":"sancayetano",
          "name":"San Cayetano",
          "animated_sticker_pack":false,
