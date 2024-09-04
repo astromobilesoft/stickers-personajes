@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"5septiembre",
+         "name":"Día de los Hermanos",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"4septiembre",
+         "name":"Día de la Secretaria",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"3septiembre",
          "name":"Día de Ferretero",
          "animated_sticker_pack":false,
