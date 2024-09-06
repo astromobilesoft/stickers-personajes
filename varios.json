@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"saludos3",
+         "name":"Saludos 3",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"saludos4",
+         "name":"Saludos 4",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"5septiembre",
          "name":"Día de los Hermanos",
          "animated_sticker_pack":false,
