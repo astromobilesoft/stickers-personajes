@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"saludos5",
+         "name":"Saludos 5",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"saludos6",
+         "name":"Saludos 6",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"saludos3",
          "name":"Saludos 3",
          "animated_sticker_pack":false,
