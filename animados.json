@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"11septiembrea1",
+         "name":"Día del Maestro (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
          "identifier":"golseleccion2024",
          "name":"Gol Selección",
          "animated_sticker_pack":true,
