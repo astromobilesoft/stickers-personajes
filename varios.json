@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"20septiembre",
+         "name":"Día del Jubilado (1)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"20septiembrea1",
+         "name":"Día del Jubilado (2)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"20septiembrea2",
+         "name":"Día del Jubilado (3)",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
          "identifier":"11septiembre",
          "name":"Día del Maestro (1)",
          "animated_sticker_pack":false,
