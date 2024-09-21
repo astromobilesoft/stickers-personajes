@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"21septiembre3",
+         "name":"21 de Septiembre (3)",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"21septiembre2",
+         "name":"Día de la Sanidad",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"21septiembrea1",
+         "name":"21 de Septiembre (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"21septiembre",
+         "name":"21 de Septiembre (1)",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
          "identifier":"frasetazas",
          "name":"Frases Matutinas",
          "animated_sticker_pack":false,
