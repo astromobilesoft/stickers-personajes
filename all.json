@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"hola1",
+         "name":"Hola 1",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },  
+      {
+         "identifier":"felizviernes1",
+         "name":"Feliz Viernes",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
          "identifier":"26septiembre",
          "name":"Día del Empleado de Comercio",
          "animated_sticker_pack":false,
