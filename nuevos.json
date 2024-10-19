@@ -3,6 +3,42 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"diadelamadre",
+         "name":"Día de la Madre (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"diadelamadrea1",
+         "name":"Día de la Madre (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"diadelamadrea2",
+         "name":"Día de la Madre (3)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"diadelamadrea3",
+         "name":"Día de la Madre (4)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"diadelamadrea4",
+         "name":"Día de la Madre (5)",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
+         "identifier":"17octubre",
+         "name":"Día de Lealtad Peronista",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"peregrinacionlujan",
          "name":"Virgen Luján",
          "animated_sticker_pack":false,
