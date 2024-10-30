@@ -3,6 +3,42 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"halloween",
+         "name":"Halloween (1)",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier": "halloween2",
+         "name": "Halloween 2",
+         "animated_sticker_pack": true,
+         "stickers": "9"
+      },
+      {
+         "identifier":"halloween3",
+         "name":"Halloween (3)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"halloween4",
+         "name":"Halloween (4)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"halloween5",
+         "name":"Halloween (5)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"halloween6",
+         "name":"Halloween (6)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
          "identifier":"diadelamadre",
          "name":"Día de la Madre (1)",
          "animated_sticker_pack":false,
