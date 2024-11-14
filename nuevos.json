@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"notaslindas1",
+         "name":"Notas Lindas 1",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"notaslindas2",
+         "name":"Notas Lindas 2",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"13noviembre",
+         "name":"Día del Cerrajero",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"trump2024",
          "name":"Trump 2024",
          "animated_sticker_pack":false,
