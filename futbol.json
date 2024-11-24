@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"racingcampeonsudamericana24a",
+         "name":"Racing Campeón (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"racingcampeonsudamericana24b",
+         "name":"Racing Campeón (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"2024bocavsriver1",
          "name":"Boca vs River 2024",
          "animated_sticker_pack":false,
