@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"noquis29a",
+         "name":"Noquis 29 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"noquis29b",
+         "name":"Noquis 29 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
          "identifier":"racingcampeonsudamericana24a",
          "name":"Racing Campeón (1)",
          "animated_sticker_pack":false,
@@ -1249,12 +1261,6 @@
          "name":"Taylor Swift (4)",
          "animated_sticker_pack":true,
          "stickers":"19"
-      },
-      {
-         "identifier":"noquis29b",
-         "name":"Noquis 29",
-         "animated_sticker_pack":false,
-         "stickers":"14"
       },
       {
          "identifier":"iorio",
