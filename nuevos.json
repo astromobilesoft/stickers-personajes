@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"navidad23",
+         "name":"Feliz Navidad (27)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"navidad22",
+         "name":"Feliz Navidad (26)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"navidad21",
          "name":"Feliz Navidad (25)",
          "animated_sticker_pack":false,
