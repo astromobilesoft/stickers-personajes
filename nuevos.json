@@ -3,6 +3,168 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"navidad21",
+         "name":"Feliz Navidad (25)",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"navidad20",
+         "name":"Feliz Navidad (24)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"navidad19",
+         "name":"Feliz Navidad (23)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"navidad18",
+         "name":"Feliz Navidad (22)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"navidad17",
+         "name":"Feliz Navidad (21)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"navidad16",
+         "name":"Feliz Navidad (20)",
+         "animated_sticker_pack":true,
+         "stickers":"21"
+      },
+      {
+         "identifier":"navidad15",
+         "name":"Feliz Navidad (19)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"navidad14",
+         "name":"Feliz Navidad (18)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"navidad13",
+         "name":"Feliz Navidad (17)",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"navidad12",
+         "name":"Feliz Navidad (16)",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"navidad11",
+         "name":"Feliz Navidad (15)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"navidad10",
+         "name":"Feliz Navidad (14)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"navidad9",
+         "name":"Feliz Navidad (13)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"navidad8",
+         "name":"Feliz Navidad (12)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"navidad7",
+         "name":"Feliz Navidad (11)",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"navidad6",
+         "name":"Feliz Navidad (10)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"navidad5",
+         "name":"Feliz Navidad (9)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"navidad4",
+         "name":"Feliz Navidad (8)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"navidadclubes1",
+         "name":"Navidad Equipos (1)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"navidadclubes2",
+         "name":"Navidad Equipos (2)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"navidad",
+         "name":"Feliz Navidad (7)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"navidadcartoons",
+         "name":"Feliz Navidad (6)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"navidadpapanoel",
+         "name":"Feliz Navidad (5)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"navidadargentina",
+         "name":"Feliz Navidad (4)",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"navidad3",
+         "name":"Feliz Navidad (2)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"navidad2",
+         "name":"Feliz Navidad (1)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"navidad1",
+         "name":"Comida Navidad",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"2024velezcampeon1",
          "name":"Velez Campeón",
          "animated_sticker_pack":false,
