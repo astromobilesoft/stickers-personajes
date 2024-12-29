@@ -3,6 +3,54 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"anonuevo7",
+         "name":"Feliz Año Nuevo (7)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"anonuevo1",
+         "name":"Feliz Año Nuevo (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"anonuevo2",
+         "name":"Feliz Año Nuevo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"anonuevo3",
+         "name":"Feliz Año Nuevo (3)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"anonuevo4",
+         "name":"Feliz Año Nuevo (4)",
+         "animated_sticker_pack":true,
+         "stickers":"5"
+      },
+      {
+         "identifier":"anonuevo5",
+         "name":"Feliz Año Nuevo (5)",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"anonuevo6",
+         "name":"Feliz Año Nuevo (6)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"anonuevoadornos",
+         "name":"Adornos Año Nuevo",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
          "identifier":"navidad25",
          "name":"Feliz Navidad (29)",
          "animated_sticker_pack":true,
@@ -1071,18 +1119,6 @@
          "stickers":"7"
       },
       {
-         "identifier":"anonuevo6",
-         "name":"Feliz Año Nuevo (6)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"anonuevo5",
-         "name":"Feliz Año Nuevo (5)",
-         "animated_sticker_pack":true,
-         "stickers":"8"
-      },
-      {
          "identifier":"anonuevo24a1",
          "name":"Feliz Año 2024 (1)",
          "animated_sticker_pack":true,
@@ -1093,36 +1129,6 @@
          "name":"Feliz Año 2024 (2)",
          "animated_sticker_pack":true,
          "stickers":"17"
-      },
-      {
-         "identifier":"anonuevo1",
-         "name":"Feliz Año Nuevo (1)",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
-         "identifier":"anonuevo2",
-         "name":"Feliz Año Nuevo (2)",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
-         "identifier":"anonuevo3",
-         "name":"Feliz Año Nuevo (3)",
-         "animated_sticker_pack":false,
-         "stickers":"13"
-      },
-      {
-         "identifier":"anonuevo4",
-         "name":"Feliz Año Nuevo (4)",
-         "animated_sticker_pack":true,
-         "stickers":"5"
-      },
-      {
-         "identifier":"anonuevoadornos",
-         "name":"Adornos Año Nuevo",
-         "animated_sticker_pack":true,
-         "stickers":"7"
       },
       {
          "identifier":"navidad",
