@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"reyesmagosa2",
+         "name":"Reyes Magos (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"reyesmagos1a",
+         "name":"Reyes Magos (1)",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
          "identifier":"anonuevo25a1",
          "name":"Feliz Año 2025",
          "animated_sticker_pack":true,
@@ -1135,18 +1147,6 @@
          "name":"Memes Políticos",
          "animated_sticker_pack":false,
          "stickers":"20"
-      },
-      {
-         "identifier":"reyesmagosa2",
-         "name":"Reyes Magos (2)",
-         "animated_sticker_pack":true,
-         "stickers":"15"
-      },
-      {
-         "identifier":"reyesmagos1a",
-         "name":"Reyes Magos (1)",
-         "animated_sticker_pack":false,
-         "stickers":"7"
       },
       {
          "identifier":"anonuevo24a1",
