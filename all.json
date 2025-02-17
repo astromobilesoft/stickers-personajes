@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"mileicoin",
+         "name":"Milei Libra",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
          "identifier":"14febreroa1",
          "name":"San Valentín",
          "animated_sticker_pack":true,
