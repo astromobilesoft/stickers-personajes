@@ -3,16 +3,28 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"14febreroa1",
-         "name":"San Valentín",
-         "animated_sticker_pack":true,
-         "stickers":"13"
-      },
-      {
          "identifier":"14febrero",
          "name":"Día de los Enamorados",
          "animated_sticker_pack":false,
          "stickers":"27"
+      },
+      {
+         "identifier":"14febreroa1",
+         "name":"San Valentín (1)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"14febreroa2",
+         "name":"San Valentín (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"14febreroa3",
+         "name":"San Valentín (3)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
       },
       {
          "identifier":"anonuevochino",
