@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"carnavala1",
+         "name":"Carnaval",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
          "identifier":"11septiembrea1",
          "name":"Día del Maestro (2)",
          "animated_sticker_pack":true,

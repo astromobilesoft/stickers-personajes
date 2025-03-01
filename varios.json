@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"findelargo1",
+         "name":"Finde Largo",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"carnavala1",
+         "name":"Carnaval",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
          "identifier":"14febrero",
          "name":"Día de los Enamorados",
          "animated_sticker_pack":false,
