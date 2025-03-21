@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"otono",
+         "name":"Feliz Otoño (1)",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"otonoa1",
+         "name":"Feliz Otoño (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
          "identifier":"17marzoa1",
          "name":"San Patricio",
          "animated_sticker_pack":true,

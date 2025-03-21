@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"otonoa1",
+         "name":"Feliz Otoño (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
          "identifier":"carnavala1",
          "name":"Carnaval",
          "animated_sticker_pack":true,
