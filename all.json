@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seleccion2025a",
+         "name":"Selección Argentina 2025",
+         "animated_sticker_pack":true,
+         "stickers":"4"
+      },
+      {
+         "identifier":"ositos1",
+         "name":"Osito Gruñon",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"otono",
          "name":"Feliz Otoño (1)",
          "animated_sticker_pack":false,
