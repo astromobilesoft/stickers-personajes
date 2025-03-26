@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seleccion2025b",
+         "name":"Argentina vs Brasil 2025",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
          "identifier":"24marzo",
          "name":"Día de la Memoria",
          "animated_sticker_pack":false,
