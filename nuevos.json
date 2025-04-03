@@ -3,36 +3,6 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"2abril1",
-         "name":"Malvinas Argentinas (1)",
-         "animated_sticker_pack":false,
-         "stickers":"11"
-      },
-      {
-         "identifier":"2abril3",
-         "name":"Malvinas Argentinas (2)",
-         "animated_sticker_pack":false,
-         "stickers":"16"
-      },
-      {
-         "identifier":"2abril4",
-         "name":"Malvinas Argentinas (3)",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
-         "identifier":"2abrila1",
-         "name":"Malvinas Argentinas (4)",
-         "animated_sticker_pack":true,
-         "stickers":"8"
-      },
-      {
-         "identifier":"2abrila2",
-         "name":"Malvinas Argentinas (5)",
-         "animated_sticker_pack":true,
-         "stickers":"8"
-      },
-      {
          "identifier":"2abril2",
          "name":"Día del Autismo",
          "animated_sticker_pack":false,
