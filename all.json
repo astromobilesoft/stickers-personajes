@@ -3,6 +3,42 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"superclasico2025a",
+         "name":"Gol Superclásico",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"superclasicoriver",
+         "name":"Superclásico River",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"superclasicoboca",
+         "name":"Superclásico Boca",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
+         "identifier":"superclasico1",
+         "name":"Superclásico 1",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"superclasico2",
+         "name":"Superclásico 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"superclasico",
+         "name":"Superclásico 3",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
          "identifier":"papafrancisco",
          "name":"Adiós Francisco",
          "animated_sticker_pack":false,
