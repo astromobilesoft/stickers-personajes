@@ -3,6 +3,36 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"francocolapinto2",
+         "name":"Vuelve Colapinto",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"18mayoa1",
+         "name":"Día Escarapela (2)",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
+         "identifier":"17mayo",
+         "name":"Día de la Armada",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"11mayo",
+         "name":"Himno Nacional",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"8mayo1",
+         "name":"Día Virgen Lujan",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"1mayo2",
          "name":"Día del Trabajador (5)",
          "animated_sticker_pack":false,
