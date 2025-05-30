@@ -9,6 +9,30 @@
          "stickers":"6"
       },
       {
+         "identifier":"2junio",
+         "name":"Día del Bombero",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
+         "identifier":"31mayo1",
+         "name":"Día Mundial sin Tabaco (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"31mayoa1",
+         "name":"Día Mundial sin Tabaco (2)",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"28mayo1",
+         "name":"Día Maestra Jardinera",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
          "identifier":"25mayo2",
          "name":"25 de Mayo (5)",
          "animated_sticker_pack":false,
