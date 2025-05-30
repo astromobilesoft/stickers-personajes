@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ricardodarinempanadas1",
+         "name":"Empanadas Darin",
+         "animated_sticker_pack":false,
+         "stickers":"6"
+      },
+      {
          "identifier":"25mayo2",
          "name":"25 de Mayo (5)",
          "animated_sticker_pack":false,
