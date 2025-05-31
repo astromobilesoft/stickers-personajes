@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ivanlatam1",
+         "name":"Ivan Latam",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"ricardodarinempanadas1",
          "name":"Empanadas Darin",
          "animated_sticker_pack":false,
