@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitriver2526a",
+         "name":"Camiseta River 25-26 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"kitriver2526b",
+         "name":"Camiseta River 25-26 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"kitboca2526a",
+         "name":"Camiseta Boca 25-26 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitboca2526b",
+         "name":"Camiseta Boca 25-26 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"chaugago1",
          "name":"Chau Gago",
          "animated_sticker_pack":false,
