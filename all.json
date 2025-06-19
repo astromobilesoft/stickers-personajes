@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"20junio",
+         "name":"Día de la Bandera (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"20junioa2",
+         "name":"Dia de la Bandera (3)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"20junioa3",
+         "name":"Dia de la Bandera (4)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier":"clubworldcup2025riverplate1",
          "name":"River Plate FCWC 25 (1)",
          "animated_sticker_pack":false,
@@ -1285,24 +1303,6 @@
          "name":"Día de la Bandera (1)",
          "animated_sticker_pack":true,
          "stickers":"10"
-      },
-      {
-         "identifier":"20junio",
-         "name":"Día de la Bandera (2)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"20junioa2",
-         "name":"Dia de la Bandera (3)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"20junioa3",
-         "name":"Dia de la Bandera (4)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
       },
       {
          "identifier":"guillermomoreno",
