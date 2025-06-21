@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"miguelmerentiel1",
+         "name":"Miguel Merentiel",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"clubworldcup2025riverplate1",
          "name":"River Plate FCWC 25 (1)",
          "animated_sticker_pack":false,
