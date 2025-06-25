@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"italianbrainrot1",
+         "name":"Italian Brainrot",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"clubworldcup2025gastadas1",
+         "name":"Gastadas Mundial",
+         "animated_sticker_pack":false,
+         "stickers":"6"
+      },
+      {
          "identifier":"invierno1",
          "name":"Invierno (1)",
          "animated_sticker_pack":false,
