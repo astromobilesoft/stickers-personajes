@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clubworldcup2025gastadas2",
+         "name":"Gastadas Mundial (2)",
+         "animated_sticker_pack":false,
+         "stickers":"6"
+      },
+      {
          "identifier":"clubworldcup2025gastadas1",
-         "name":"Gastadas Mundial",
+         "name":"Gastadas Mundial (1)",
          "animated_sticker_pack":false,
          "stickers":"6"
       },
