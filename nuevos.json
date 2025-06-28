@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"28junio",
+         "name":"Día del Orgullo (1)",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"28junioa1",
+         "name":"Día del Orgullo (2)",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
+         "identifier":"nenapancarta1",
+         "name":"Nena Pancarta",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"clubworldcup2025gastadas2",
          "name":"Gastadas Mundial (2)",
          "animated_sticker_pack":false,
@@ -1297,18 +1315,6 @@
          "name":"Argentina vs Canada",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },
-      {
-         "identifier":"28junio",
-         "name":"Día del Orgullo (1)",
-         "animated_sticker_pack":false,
-         "stickers":"11"
-      },
-      {
-         "identifier":"28junioa1",
-         "name":"Día del Orgullo (2)",
-         "animated_sticker_pack":true,
-         "stickers":"7"
       },
       {
          "identifier":"seleccion2024a",
