@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"9julio",
+         "name":"Día de la Independencia (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"9julioa1",
+         "name":"Día de la Independencia (2)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
          "identifier":"28junio",
          "name":"Día del Orgullo (1)",
          "animated_sticker_pack":false,
@@ -835,18 +847,6 @@
          "name":"Día del Electricista",
          "animated_sticker_pack":false,
          "stickers":"9"
-      },
-      {
-         "identifier":"9julio",
-         "name":"Día de la Independencia (1)",
-         "animated_sticker_pack":false,
-         "stickers":"18"
-      },
-      {
-         "identifier":"9julioa1",
-         "name":"Día de la Independencia (2)",
-         "animated_sticker_pack":true,
-         "stickers":"11"
       },
       {
          "identifier":"copaamerica2024fg3",
