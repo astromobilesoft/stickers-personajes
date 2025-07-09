@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2025velezsupercopaw1",
+         "name":"Velez Campeón Supercopa",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"clubworldcup2025gastadas2",
          "name":"Gastadas Mundial (2)",
          "animated_sticker_pack":false,
