@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"13julio",
+         "name":"Día del Electricista",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
          "identifier":"comidaspatrias1",
          "name":"Comidas Patrias",
          "animated_sticker_pack":false,
@@ -847,12 +853,6 @@
          "name":"Vacaciones",
          "animated_sticker_pack":true,
          "stickers":"14"
-      },
-      {
-         "identifier":"13julio",
-         "name":"Día del Electricista",
-         "animated_sticker_pack":false,
-         "stickers":"9"
       },
       {
          "identifier":"copaamerica2024fg3",
