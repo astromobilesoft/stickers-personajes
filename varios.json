@@ -3,6 +3,42 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"20julioa2",
+         "name":"Día del Amigo (5)",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"20julioa1",
+         "name":"Día del Amigo (4)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"20julio3",
+         "name":"Día del Amigo (3)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"20julio2",
+         "name":"Día del Amigo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"20julio",
+         "name":"Día del Amigo (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"vacacionesdeinvierno",
+         "name":"Vacaciones",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
          "identifier":"13julio",
          "name":"Día del Electricista",
          "animated_sticker_pack":false,
@@ -817,42 +853,6 @@
          "name":"Maligno Oro Olimpico",
          "animated_sticker_pack":false,
          "stickers":"10"
-      },
-      {
-         "identifier":"20julioa2",
-         "name":"Día del Amigo (5)",
-         "animated_sticker_pack":true,
-         "stickers":"16"
-      },
-      {
-         "identifier":"20julioa1",
-         "name":"Día del Amigo (4)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
-      },
-      {
-         "identifier":"20julio3",
-         "name":"Día del Amigo (3)",
-         "animated_sticker_pack":false,
-         "stickers":"24"
-      },
-      {
-         "identifier":"20julio2",
-         "name":"Día del Amigo (2)",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
-         "identifier":"20julio",
-         "name":"Día del Amigo (1)",
-         "animated_sticker_pack":false,
-         "stickers":"17"
-      },
-      {
-         "identifier":"vacacionesdeinvierno",
-         "name":"Vacaciones",
-         "animated_sticker_pack":true,
-         "stickers":"14"
       },
       {
          "identifier":"copaamerica2024fg3",
