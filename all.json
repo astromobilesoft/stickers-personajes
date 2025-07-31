@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2agostoa1",
+         "name":"Día de la Cerveza (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"2agosto1",
+         "name":"Día de la Cerveza (2)",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"1agosto1",
+         "name":"Día de la Pachamama",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"locomotorarip1",
          "name":"Locomotora QEPD",
          "animated_sticker_pack":false,
@@ -1261,18 +1279,6 @@
          "name":"Día del Panadero",
          "animated_sticker_pack":false,
          "stickers":"7"
-      },
-      {
-         "identifier":"2agostoa1",
-         "name":"Día de la Cerveza (1)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"2agosto1",
-         "name":"Día de la Cerveza (2)",
-         "animated_sticker_pack":false,
-         "stickers":"8"
       },
       {
          "identifier":"gololimpico1",
