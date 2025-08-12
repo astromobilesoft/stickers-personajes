@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"13agosto",
+         "name":"Día del Zurdo",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"2agostoa1",
          "name":"Día de la Cerveza (1)",
          "animated_sticker_pack":true,
@@ -745,13 +751,13 @@
          "name":"Amor 2",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },   
+      },
       {
          "identifier":"hola1",
          "name":"Hola 1",
          "animated_sticker_pack":false,
          "stickers":"8"
-      },  
+      },
       {
          "identifier":"felizviernes1",
          "name":"Feliz Viernes",
@@ -1123,7 +1129,7 @@
          "name":"Javier Milei (4)",
          "animated_sticker_pack":false,
          "stickers":"20"
-      },      
+      },
       {
          "identifier":"elecciones2023",
          "name":"Elecciones 2023",
