@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"diasa1",
+         "name":"Días Animados 1",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
+         "identifier":"frasesanimadas13",
+         "name":"Frases Animadas 13",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"heartlove1",
+         "name":"Heart Love 1",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },  
+      {
          "identifier":"seleccion2025a",
          "name":"Selección Argentina 2025",
          "animated_sticker_pack":true,
