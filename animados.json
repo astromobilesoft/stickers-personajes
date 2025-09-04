@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"buendiaa2",
+         "name":"Buen Día 2",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"buenasnochesa1",
+         "name":"Buenas Noches 2",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },         
+      {
          "identifier":"diasa1",
          "name":"Días Animados 1",
          "animated_sticker_pack":true,

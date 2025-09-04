@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"5septiembre",
+         "name":"Día de los Hermanos",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"buendiaa2",
+         "name":"Buen Día 2",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"buenasnochesa1",
+         "name":"Buenas Noches 2",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },         
+      {
          "identifier":"4septiembre",
          "name":"Día de la Secretaria",
          "animated_sticker_pack":false,
@@ -1273,12 +1291,6 @@
          "name":"Saludos 4",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },
-      {
-         "identifier":"5septiembre",
-         "name":"Día de los Hermanos",
-         "animated_sticker_pack":false,
-         "stickers":"10"
       },
       {
          "identifier":"francocolapinto1",
