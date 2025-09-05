@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seleccion2025c",
+         "name":"Argentina vs Venezuela 2025",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
          "identifier":"bocaparedes",
          "name":"Bienvenido Paredes",
          "animated_sticker_pack":false,
