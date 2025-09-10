@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"11septiembre",
+         "name":"Día del Maestro (1)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"11septiembrea1",
+         "name":"Día del Maestro (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"7septiembre",
+         "name":"Día del Metalurgico",
+         "animated_sticker_pack":false,
+         "stickers":"6"
+      },
+      {
          "identifier":"seleccion2025c",
          "name":"Argentina vs Venezuela 2025",
          "animated_sticker_pack":false,
@@ -1243,36 +1261,6 @@
          "name":"Día del Jubilado (3)",
          "animated_sticker_pack":true,
          "stickers":"7"
-      },
-      {
-         "identifier":"11septiembre",
-         "name":"Día del Maestro (1)",
-         "animated_sticker_pack":false,
-         "stickers":"13"
-      },
-      {
-         "identifier":"11septiembrea1",
-         "name":"Día del Maestro (2)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
-      },
-      {
-         "identifier":"11septiembre",
-         "name":"Día del Maestro (1)",
-         "animated_sticker_pack":false,
-         "stickers":"13"
-      },
-      {
-         "identifier":"11septiembrea1",
-         "name":"Día del Maestro (2)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
-      },
-      {
-         "identifier":"7septiembre",
-         "name":"Día del Metalurgico",
-         "animated_sticker_pack":false,
-         "stickers":"6"
       },
       {
          "identifier":"saludos5",
