@@ -9,6 +9,18 @@
          "stickers":"8"
       },
       {
+         "identifier":"buendia4",
+         "name":"Buen Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"buendia5",
+         "name":"Buen Día 5",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },        
+      {
          "identifier":"11septiembre",
          "name":"Día del Maestro (1)",
          "animated_sticker_pack":false,

@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"13septiembre",
+         "name":"Día del Programador",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },      
+      {
+         "identifier":"11septiembre",
+         "name":"Día del Maestro (1)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"11septiembrea1",
+         "name":"Día del Maestro (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"7septiembre",
+         "name":"Día del Metalurgico",
+         "animated_sticker_pack":false,
+         "stickers":"6"
+      },
+      {
          "identifier":"13agosto",
          "name":"Día del Zurdo",
          "animated_sticker_pack":false,
