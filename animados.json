@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"21septiembrea1",
+         "name":"21 de Septiembre (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"20septiembrea1",
+         "name":"Día del Jubilado (2)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"20septiembrea2",
+         "name":"Día del Jubilado (3)",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
          "identifier":"buendiaa2",
          "name":"Buen Día 2",
          "animated_sticker_pack":true,
