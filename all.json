@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"1octubrea1",
+         "name":"Día del Café",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },      
+      {
          "identifier":"seleccionsub20team2025a",
          "name":"Selección Sub-20 2025",
          "animated_sticker_pack":false,
