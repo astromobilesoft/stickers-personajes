@@ -4,9 +4,15 @@
    "sticker_packs":[
       {
          "identifier":"peregrinacionlujan",
-         "name":"Peregrinación Luján",
+         "name":"Peregrinación Luján (1)",
          "animated_sticker_pack":false,
          "stickers":"8"
+      },      
+      {
+         "identifier":"peregrinacionlujan2",
+         "name":"Peregrinación Luján (2)",
+         "animated_sticker_pack":false,
+         "stickers":"9"
       },      
       {
          "identifier":"1octubrea1",
