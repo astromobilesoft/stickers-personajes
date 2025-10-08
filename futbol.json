@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seleccionsub20gol2025a1",
+         "name":"Vamos Sub-20",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },      
+      {
          "identifier":"seleccionsub20team2025a",
          "name":"Selección Sub-20 2025",
          "animated_sticker_pack":false,
