@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"trumppesosa1",
+         "name":"Trump Pesos",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },      
+      {
          "identifier":"seleccionsub20gol2025a1",
          "name":"Vamos Sub-20",
          "animated_sticker_pack":true,
