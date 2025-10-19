@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seleccionargentinagol1",
+         "name":"Selección Arg Gol (1)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      }, 
+      {
+         "identifier":"seleccionargentinagol2",
+         "name":"Selección Arg Gol (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },         
+      {
          "identifier":"diadelamadre5",
          "name":"Día de la Madre (5)",
          "animated_sticker_pack":false,
