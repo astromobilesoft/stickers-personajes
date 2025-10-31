@@ -39,6 +39,114 @@
          "stickers":"10"
       },
       {
+         "identifier":"halloween7",
+         "name":"Halloween 7",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"halloween8",
+         "name":"Halloween 8",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"halloween9",
+         "name":"Halloween 9",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"halloween10",
+         "name":"Halloween 10",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"halloween11",
+         "name":"Halloween 11",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"halloween12",
+         "name":"Halloween 12",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"halloween13",
+         "name":"Halloween 13",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"halloween14",
+         "name":"Halloween 14",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"halloween15",
+         "name":"Halloween 15",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"halloween16",
+         "name":"Halloween 16",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"reaperskull1",
+         "name":"Reaper Skull 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"reaperskull2",
+         "name":"Reaper Skull 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"reaperskull3",
+         "name":"Reaper Skull 3",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"thething1",
+         "name":"The Things 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"thething2",
+         "name":"The Things 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"thething3",
+         "name":"The Things 3",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"funnypumpkins1",
+         "name":"Funny Pumpkins 1",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"funnypumpkins2",
+         "name":"Funny Pumpkins 2",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },      
+      {
          "identifier":"seleccionargentinagol1",
          "name":"Selección Arg Gol (1)",
          "animated_sticker_pack":true,
