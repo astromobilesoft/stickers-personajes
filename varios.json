@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"7noviembre",
+         "name":"7 de Noviembre",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"6noviembre",
+         "name":"Día del Bancario",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },   
+      {
          "identifier":"diadelamadre5",
          "name":"Día de la Madre (5)",
          "animated_sticker_pack":false,
