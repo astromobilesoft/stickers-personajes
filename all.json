@@ -2,6 +2,72 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
    "ios_app_store_link":"",
    "sticker_packs":[
+     {
+        "identifier":"anonuevo26a1",
+        "name":"Feliz Año 2026 (1)",
+        "animated_sticker_pack":true,
+        "stickers":"14"
+     },
+     {
+        "identifier":"anonuevo26a2",
+        "name":"Feliz Año 2026 (2)",
+        "animated_sticker_pack":true,
+        "stickers":"14"
+     },
+     {
+        "identifier":"anonuevo26a3",
+        "name":"Feliz Año 2026 (3)",
+        "animated_sticker_pack":true,
+        "stickers":"14"
+     },
+     {
+        "identifier":"anonuevo7",
+        "name":"Feliz Año Nuevo (7)",
+        "animated_sticker_pack":true,
+        "stickers":"10"
+     },
+     {
+        "identifier":"anonuevo1",
+        "name":"Feliz Año Nuevo (1)",
+        "animated_sticker_pack":false,
+        "stickers":"10"
+     },
+     {
+        "identifier":"anonuevo2",
+        "name":"Feliz Año Nuevo (2)",
+        "animated_sticker_pack":false,
+        "stickers":"15"
+     },
+     {
+        "identifier":"anonuevo3",
+        "name":"Feliz Año Nuevo (3)",
+        "animated_sticker_pack":false,
+        "stickers":"13"
+     },
+     {
+        "identifier":"anonuevo4",
+        "name":"Feliz Año Nuevo (4)",
+        "animated_sticker_pack":true,
+        "stickers":"5"
+     },
+     {
+        "identifier":"anonuevo5",
+        "name":"Feliz Año Nuevo (5)",
+        "animated_sticker_pack":true,
+        "stickers":"8"
+     },
+     {
+        "identifier":"anonuevo6",
+        "name":"Feliz Año Nuevo (6)",
+        "animated_sticker_pack":true,
+        "stickers":"12"
+     },
+     {
+        "identifier":"anonuevoadornos",
+        "name":"Adornos Año Nuevo",
+        "animated_sticker_pack":true,
+        "stickers":"7"
+     },     
       {
          "identifier":"navidad25",
          "name":"Feliz Navidad (29)",
@@ -211,19 +277,19 @@
          "name":"Día del Médico (2)",
          "animated_sticker_pack":true,
          "stickers":"10"
-      },      
+      },
       {
          "identifier":"worldcup2026sorteo",
          "name":"Sorteo Mundial 2026",
          "animated_sticker_pack":false,
          "stickers":"8"
-      },         
+      },
       {
          "identifier":"worldcup2026logo1",
          "name":"Logo Mundial 26",
          "animated_sticker_pack":false,
          "stickers":"19"
-      },            
+      },
       {
          "identifier":"10noviembre",
          "name":"Día de la Tradición (1)",
@@ -235,13 +301,13 @@
          "name":"Día de la Tradición (2)",
          "animated_sticker_pack":true,
          "stickers":"19"
-      },      
+      },
       {
          "identifier":"2025bocavsriver1",
          "name":"Boca Jrs vs River Plate",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },       
+      },
       {
          "identifier":"superclasico2025a",
          "name":"Gol Superclásico",
@@ -301,13 +367,13 @@
          "name":"Camiseta Boca 25-26 (2)",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },      
+      },
       {
          "identifier":"2025rivervsboca1",
          "name":"River Plate vs Boca Jrs",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },      
+      },
       {
          "identifier":"7noviembre",
          "name":"7 de Noviembre",
@@ -325,7 +391,7 @@
          "name":"Camiseta Arg 2026 (1)",
          "animated_sticker_pack":false,
          "stickers":"12"
-      },       
+      },
       {
          "identifier":"halloween",
          "name":"Halloween (1)",
@@ -469,19 +535,19 @@
          "name":"Funny Pumpkins 2",
          "animated_sticker_pack":true,
          "stickers":"10"
-      },      
+      },
       {
          "identifier":"seleccionargentinagol1",
          "name":"Selección Arg Gol (1)",
          "animated_sticker_pack":true,
          "stickers":"15"
-      }, 
+      },
       {
          "identifier":"seleccionargentinagol2",
          "name":"Selección Arg Gol (2)",
          "animated_sticker_pack":true,
          "stickers":"15"
-      },         
+      },
       {
          "identifier":"diadelamadre5",
          "name":"Día de la Madre (5)",
@@ -505,13 +571,13 @@
          "name":"Día de la Madre (8)",
          "animated_sticker_pack":false,
          "stickers":"12"
-      },   
+      },
       {
          "identifier":"diadelamadreregalos1",
          "name":"Día de la Madre (9)",
          "animated_sticker_pack":false,
          "stickers":"12"
-      },   
+      },
       {
          "identifier":"diadelamadre",
          "name":"Día de la Madre (1)",
@@ -541,7 +607,7 @@
          "name":"Día de la Madre (5)",
          "animated_sticker_pack":true,
          "stickers":"6"
-      },         
+      },
       {
          "identifier":"17octubre",
          "name":"Día de Lealtad Peronista",
@@ -553,7 +619,7 @@
          "name":"Sub-20 Finalista",
          "animated_sticker_pack":false,
          "stickers":"18"
-      },       
+      },
       {
          "identifier":"12octubre",
          "name":"Día de la Diversidad",
@@ -565,43 +631,43 @@
          "name":"Minions",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },          
+      },
       {
          "identifier":"trumppesosa1",
          "name":"Trump Pesos",
          "animated_sticker_pack":true,
          "stickers":"9"
-      },      
+      },
       {
          "identifier":"seleccionsub20gol2025a1",
          "name":"Vamos Sub-20",
          "animated_sticker_pack":true,
          "stickers":"12"
-      },      
+      },
       {
          "identifier":"peregrinacionlujan",
          "name":"Peregrinación Luján (1)",
          "animated_sticker_pack":false,
          "stickers":"8"
-      },      
+      },
       {
          "identifier":"peregrinacionlujan2",
          "name":"Peregrinación Luján (2)",
          "animated_sticker_pack":false,
          "stickers":"9"
-      },      
+      },
       {
          "identifier":"1octubrea1",
          "name":"Día del Café",
          "animated_sticker_pack":true,
          "stickers":"15"
-      },      
+      },
       {
          "identifier":"seleccionsub20team2025a",
          "name":"Selección Sub-20 2025",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },            
+      },
       {
          "identifier":"kitligaarg2025a",
          "name":"Camisetas Liga 2025 (1)",
@@ -625,7 +691,7 @@
          "name":"Camisetas Liga 2025 (4)",
          "animated_sticker_pack":false,
          "stickers":"20"
-      },      
+      },
       {
          "identifier":"26septiembre",
          "name":"Día del Empleado de Comercio",
@@ -637,13 +703,13 @@
          "name":"Feliz Viernes",
          "animated_sticker_pack":true,
          "stickers":"14"
-      },      
+      },
       {
          "identifier":"racingsemilibertadores25a",
          "name":"Racing Semifinalista",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },        
+      },
       {
          "identifier":"21septiembre3",
          "name":"21 de Septiembre (3)",
@@ -667,7 +733,7 @@
          "name":"21 de Septiembre (1)",
          "animated_sticker_pack":false,
          "stickers":"19"
-      },      
+      },
       {
          "identifier":"20septiembre",
          "name":"Día del Jubilado (1)",
@@ -703,7 +769,7 @@
          "name":"Buen Día 5",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },        
+      },
       {
          "identifier":"11septiembre",
          "name":"Día del Maestro (1)",
@@ -727,7 +793,7 @@
          "name":"Argentina vs Venezuela 2025",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },      
+      },
       {
          "identifier":"5septiembre",
          "name":"Día de los Hermanos",
@@ -745,7 +811,7 @@
          "name":"Buenas Noches 2",
          "animated_sticker_pack":true,
          "stickers":"10"
-      },         
+      },
       {
          "identifier":"4septiembre",
          "name":"Día de la Secretaria",
@@ -775,7 +841,7 @@
          "name":"Heart Love 1",
          "animated_sticker_pack":true,
          "stickers":"10"
-      },      
+      },
       {
          "identifier":"diadelaninez1",
          "name":"Día de la Niñez (1)",
@@ -1447,60 +1513,6 @@
          "name":"Feliz Año 2025",
          "animated_sticker_pack":true,
          "stickers":"15"
-      },
-      {
-         "identifier":"anonuevo7",
-         "name":"Feliz Año Nuevo (7)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
-      },
-      {
-         "identifier":"anonuevo7",
-         "name":"Feliz Año Nuevo (7)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
-      },
-      {
-         "identifier":"anonuevo1",
-         "name":"Feliz Año Nuevo (1)",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
-         "identifier":"anonuevo2",
-         "name":"Feliz Año Nuevo (2)",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
-         "identifier":"anonuevo3",
-         "name":"Feliz Año Nuevo (3)",
-         "animated_sticker_pack":false,
-         "stickers":"13"
-      },
-      {
-         "identifier":"anonuevo4",
-         "name":"Feliz Año Nuevo (4)",
-         "animated_sticker_pack":true,
-         "stickers":"5"
-      },
-      {
-         "identifier":"anonuevo5",
-         "name":"Feliz Año Nuevo (5)",
-         "animated_sticker_pack":true,
-         "stickers":"8"
-      },
-      {
-         "identifier":"anonuevo6",
-         "name":"Feliz Año Nuevo (6)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"anonuevoadornos",
-         "name":"Adornos Año Nuevo",
-         "animated_sticker_pack":true,
-         "stickers":"7"
       },
       {
          "identifier":"2024velezcampeon1",
