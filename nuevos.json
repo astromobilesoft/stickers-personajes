@@ -9,6 +9,30 @@
          "stickers":"8"
       },      
      {
+        "identifier":"14febrero",
+        "name":"Día de los Enamorados",
+        "animated_sticker_pack":false,
+        "stickers":"27"
+     },
+     {
+        "identifier":"14febreroa1",
+        "name":"San Valentín (1)",
+        "animated_sticker_pack":true,
+        "stickers":"13"
+     },
+     {
+        "identifier":"14febreroa2",
+        "name":"San Valentín (2)",
+        "animated_sticker_pack":true,
+        "stickers":"15"
+     },
+     {
+        "identifier":"14febreroa3",
+        "name":"San Valentín (3)",
+        "animated_sticker_pack":true,
+        "stickers":"15"
+     },     
+     {
         "identifier":"reyesmagosa2",
         "name":"Reyes Magos (2)",
         "animated_sticker_pack":true,
@@ -19,7 +43,7 @@
         "name":"Reyes Magos (1)",
         "animated_sticker_pack":false,
         "stickers":"7"
-     },     
+     },
      {
         "identifier":"anonuevo26a1",
         "name":"Feliz Año 2026 (1)",
@@ -1525,30 +1549,6 @@
          "name":"Calor (4)",
          "animated_sticker_pack":true,
          "stickers":"12"
-      },
-      {
-         "identifier":"14febrero",
-         "name":"Día de los Enamorados",
-         "animated_sticker_pack":false,
-         "stickers":"27"
-      },
-      {
-         "identifier":"14febreroa1",
-         "name":"San Valentín (1)",
-         "animated_sticker_pack":true,
-         "stickers":"13"
-      },
-      {
-         "identifier":"14febreroa2",
-         "name":"San Valentín (2)",
-         "animated_sticker_pack":true,
-         "stickers":"15"
-      },
-      {
-         "identifier":"14febreroa3",
-         "name":"San Valentín (3)",
-         "animated_sticker_pack":true,
-         "stickers":"15"
       },
       {
          "identifier":"anonuevochino",
