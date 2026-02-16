@@ -2,6 +2,30 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
    "ios_app_store_link":"",
    "sticker_packs":[
+     {
+        "identifier":"findelargo1",
+        "name":"Finde Largo",
+        "animated_sticker_pack":false,
+        "stickers":"10"
+     },
+     {
+        "identifier":"carnavala1",
+        "name":"Carnaval",
+        "animated_sticker_pack":true,
+        "stickers":"17"
+     },
+     {
+        "identifier":"anonuevochino",
+        "name":"Año Nuevo Chino",
+        "animated_sticker_pack":false,
+        "stickers":"23"
+     },
+       {
+         "identifier":"14febreroa4",
+         "name":"Anti San Valentin",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },     
       {
          "identifier":"14febrero",
          "name":"Día de los Enamorados",
