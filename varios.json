@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
      {
+        "identifier":"24marzo",
+        "name":"Día de la Memoria (1)",
+        "animated_sticker_pack":false,
+        "stickers":"14"
+     },
+     {
+        "identifier":"24marzo2",
+        "name":"Día de la Memoria (2)",
+        "animated_sticker_pack":false,
+        "stickers":"16"
+     },
+     {
         "identifier":"findelargo1",
         "name":"Finde Largo",
         "animated_sticker_pack":false,
@@ -25,7 +37,7 @@
          "name":"Anti San Valentin",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },       
+      },
       {
          "identifier":"gauchito",
          "name":"Gauchito Gil",
@@ -763,12 +775,6 @@
          "name":"Domingo de Ramos",
          "animated_sticker_pack":false,
          "stickers":"10"
-      },
-      {
-         "identifier":"24marzo",
-         "name":"Día de la Memoria",
-         "animated_sticker_pack":false,
-         "stickers":"14"
       },
       {
          "identifier":"seleccion2025a",
