@@ -2,6 +2,18 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
    "ios_app_store_link":"",
    "sticker_packs":[
+      {
+         "identifier":"juevessanto2",
+         "name":"Jueves Santo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"juevessanto",
+         "name":"Jueves Santo (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+     },
      {
         "identifier":"24marzo",
         "name":"Día de la Memoria (1)",
@@ -1477,12 +1489,6 @@
          "name":"Felices Pascuas (1)",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },
-      {
-         "identifier":"juevessanto",
-         "name":"Jueves Santo",
-         "animated_sticker_pack":false,
-         "stickers":"10"
       },
       {
          "identifier":"domingoderamos1",
