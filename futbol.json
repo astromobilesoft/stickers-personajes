@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seleccionamistosos2026b",
+         "name":"Argentina vs Zambia 2026",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      }, 
+      {
+         "identifier":"seleccionamistosos2026a",
+         "name":"Argentina vs Mauritania 2026",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"worldcup2026sorteo",
          "name":"Sorteo Mundial 2026",
          "animated_sticker_pack":false,
