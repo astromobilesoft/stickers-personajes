@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"8mayo1",
+         "name":"Día Virgen Lujan",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },      
+      {
          "identifier":"diatrabajador3",
          "name":"Dia del Trabajador",
          "animated_sticker_pack":false,
