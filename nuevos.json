@@ -2,6 +2,42 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
    "ios_app_store_link":"",
    "sticker_packs":[
+       {
+         "identifier":"javiermilei6",
+         "name":"Javier Milei (6)",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"javiermilei5",
+         "name":"Javier Milei (5)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"javiermilei4",
+         "name":"Javier Milei (4)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"javiermilei3",
+         "name":"Javier Milei (3)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"javiermilei2",
+         "name":"Javier Milei (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"javiermilei1",
+         "name":"Javier Milei (1)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
       {
          "identifier":"25mayoa4",
          "name":"25 de Mayo (6)",
@@ -2181,12 +2217,6 @@
          "stickers":"18"
       },
       {
-         "identifier":"javiermilei5",
-         "name":"Javier Milei (5)",
-         "animated_sticker_pack":true,
-         "stickers":"13"
-      },
-      {
          "identifier":"maradona10",
          "name":"Maradona (10)",
          "animated_sticker_pack":false,
@@ -2257,30 +2287,6 @@
          "name":"Sergio Massa (2)",
          "animated_sticker_pack":false,
          "stickers":"18"
-      },
-      {
-         "identifier":"javiermilei3",
-         "name":"Javier Milei (3)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"javiermilei4",
-         "name":"Javier Milei (4)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"javiermilei1",
-         "name":"Javier Milei (1)",
-         "animated_sticker_pack":true,
-         "stickers":"13"
-      },
-      {
-         "identifier":"javiermilei2",
-         "name":"Javier Milei (2)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
       },
       {
          "identifier":"memes19",
