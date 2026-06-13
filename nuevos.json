@@ -2,6 +2,36 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
    "ios_app_store_link":"",
    "sticker_packs":[
+       {
+         "identifier":"worldcup2026argentinateam1",
+         "name":"Selección Argentina 2026 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"worldcup2026argentinateam2",
+         "name":"Selección Argentina 2026 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2026argentinateam3",
+         "name":"Selección Argentina 2026 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"worldcup2026argentinateam4",
+         "name":"Selección Argentina 2026 (4)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"worldcup2026argentinateam5",
+         "name":"Selección Argentina 2026 (5)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
       {
          "identifier":"seleccionargentinakit2026b",
          "name":"Camiseta Argentina 2026 (1)",
