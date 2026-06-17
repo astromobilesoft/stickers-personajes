@@ -2,6 +2,12 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
    "ios_app_store_link":"",
    "sticker_packs":[
+      {
+         "identifier":"worldcup2026argentinaf1",
+         "name":"Argentina vs Argelia",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+       },
        {
          "identifier":"worldcup2026argentinateam1",
          "name":"Selección Argentina 2026 (1)",
