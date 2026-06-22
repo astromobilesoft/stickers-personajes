@@ -88,7 +88,6 @@
          "stickers":"13"
       },
       {
->>>>>>> a2998ec46d5f718369d5f1cebab1c70150587b5d
          "identifier":"20junioa1",
          "name":"Día de la Bandera (1)",
          "animated_sticker_pack":true,
@@ -112,11 +111,7 @@
          "animated_sticker_pack":true,
          "stickers":"12"
       },
-<<<<<<< HEAD
-       {
-=======
       {
->>>>>>> a2998ec46d5f718369d5f1cebab1c70150587b5d
          "identifier":"worldcup2026argentinaf1c",
          "name":"Argentina vs Argelia (3)",
          "animated_sticker_pack":false,
