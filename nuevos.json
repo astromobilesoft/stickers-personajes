@@ -3,8 +3,13 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-<<<<<<< HEAD
-=======
+         "identifier":"worldcup2026argentinaf2a",
+         "name":"Argentina vs Austria (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+
          "identifier":"diadelpadrea9",
          "name":"Día del Padre (13)",
          "animated_sticker_pack":true,
