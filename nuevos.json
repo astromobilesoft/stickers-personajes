@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"argentinidad5",
+         "name":"Argentinidad 5",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"argentinidad6",
+         "name":"Argentinidad 6",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"argentinidad7",
+         "name":"Argentinidad 7",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },      
+      {
          "identifier":"worldcup2026argentinaf2a",
          "name":"Argentina vs Austria",
          "animated_sticker_pack":false,
