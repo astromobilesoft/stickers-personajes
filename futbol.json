@@ -3,12 +3,6 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"mexico863c",
-         "name":"Mexico 86",
-         "animated_sticker_pack":false,
-         "stickers":"16"
-      },
-      {
          "identifier":"worldcup2026argentinaf3c",
          "name":"Vs Jordania (2)",
          "animated_sticker_pack":false,
