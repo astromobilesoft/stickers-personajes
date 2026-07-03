@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"dibumartinez1",
+         "name":"Dibu Martinez (1)",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"dibumartinez2",
+         "name":"Dibu Martinez (2)",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },        
+      {
          "identifier":"mexico863",
          "name":"Mexico 86 (3)",
          "animated_sticker_pack":false,
