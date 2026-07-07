@@ -3,11 +3,17 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"worldcup2026argentinao1a",
-         "name":"vs Egipto",
+         "identifier":"worldcup2026argentinao1b",
+         "name":"vs Egipto (2)",
          "animated_sticker_pack":false,
          "stickers":"27"
-      },               
+      },           
+      {
+         "identifier":"worldcup2026argentinao1a",
+         "name":"vs Egipto (1)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },              
       {
          "identifier":"messimundial3",
          "name":"Messi Mundial 3",
