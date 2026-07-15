@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2026argentinaa3",
+         "name":"Argentina Mundial 2026 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
          "identifier":"worldcup2026argentinac1b",
          "name":"vs Suiza (2)",
          "animated_sticker_pack":false,
