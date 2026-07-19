@@ -3,6 +3,36 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2026argentinaa8",
+         "name":"Argentina Mundial 2026 (5)",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"worldcup2026argentinaa9",
+         "name":"Argentina Mundial 2026 (6)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2026argentinaa10",
+         "name":"Argentina Mundial 2026 (7)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2026argentinaa11",
+         "name":"Argentina Mundial 2026 (8)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2026argentinaa12",
+         "name":"Argentina Mundial 2026 (9)",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },            
+      {
          "identifier":"worldcup2026argentinaa7",
          "name":"Argentina Mundial 2026 (4)",
          "animated_sticker_pack":false,
