@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"sancayetano2",
+         "name":"San Cayetano (2)",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"sancayetano",
-         "name":"San Cayetano",
+         "name":"San Cayetano (1)",
          "animated_sticker_pack":false,
          "stickers":"7"
       },
