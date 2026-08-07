@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"sancayetano",
+         "name":"San Cayetano",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },      
+      {
+         "identifier":"4agosto",
+         "name":"Día del Panadero",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },      
+      {
          "identifier":"20julio4",
          "name":"Día del Amigo (6)",
          "animated_sticker_pack":false,
@@ -1093,18 +1105,6 @@
          "name":"Día de la Niñez (3)",
          "animated_sticker_pack":false,
          "stickers":"14"
-      },
-      {
-         "identifier":"sancayetano",
-         "name":"San Cayetano",
-         "animated_sticker_pack":false,
-         "stickers":"7"
-      },
-      {
-         "identifier":"4agosto",
-         "name":"Día del Panadero",
-         "animated_sticker_pack":false,
-         "stickers":"7"
       },
       {
          "identifier":"gololimpico1",
