@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"shanatovaa1",
+         "name":"Shana Tova (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"shanatova",
+         "name":"Shana Tova (1)",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },      
+      {
          "identifier":"11septiembre",
          "name":"Día del Maestro (1)",
          "animated_sticker_pack":false,
