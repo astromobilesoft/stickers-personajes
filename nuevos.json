@@ -3,14 +3,26 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"diadelhinchaderiver1",
+         "name":"Día del Hincha de River (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"diadelhinchaderiver2",
+         "name":"Día del Hincha de River (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },          
+      {
          "identifier":"26septiembre2",
-         "name":"Día del Empleado de Comercio(2)",
+         "name":"Día del Empleado de Comercio (2)",
          "animated_sticker_pack":false,
          "stickers":"14"
       },
       {
          "identifier":"26septiembre",
-         "name":"Día del Empleado de Comercio",
+         "name":"Día del Empleado de Comercio (1)",
          "animated_sticker_pack":false,
          "stickers":"9"
       },
