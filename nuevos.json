@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"peregrinacionlujan",
+         "name":"Peregrinación Luján (1)",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"peregrinacionlujan2",
+         "name":"Peregrinación Luján (2)",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"peregrinacionlujan3",
+         "name":"Peregrinación Luján (3)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
          "identifier":"seleccionamistosos2026c",
          "name":"Argentina vs Bolivia",
          "animated_sticker_pack":false,
@@ -1639,18 +1657,6 @@
          "name":"Vamos Sub-20",
          "animated_sticker_pack":true,
          "stickers":"12"
-      },
-      {
-         "identifier":"peregrinacionlujan",
-         "name":"Peregrinación Luján (1)",
-         "animated_sticker_pack":false,
-         "stickers":"8"
-      },
-      {
-         "identifier":"peregrinacionlujan2",
-         "name":"Peregrinación Luján (2)",
-         "animated_sticker_pack":false,
-         "stickers":"9"
       },
       {
          "identifier":"1octubrea1",
