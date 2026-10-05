@@ -2,7 +2,85 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
    "ios_app_store_link":"",
    "sticker_packs":[
-       {
+      {
+         "identifier":"messigracias1",
+         "name":"Gracias Messi (2)",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },       
+      {
+         "identifier":"messimundial4",
+         "name":"Gracias Messi (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },      
+      {
+         "identifier":"messimundial1",
+         "name":"Messi Mundial 1",
+         "animated_sticker_pack":false,
+         "stickers":"6"
+      },
+      {
+         "identifier":"messimundial2",
+         "name":"Messi Mundial 2",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },      
+      {
+         "identifier":"messimundial3",
+         "name":"Messi Mundial 3",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },       
+      {
+         "identifier":"messiballondor2023",
+         "name":"Messi Balon de Oro 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },      
+      {
+         "identifier":"messiqatar1",
+         "name":"Messi Qatar",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },      
+      {
+         "identifier":"worldcup2022leomessi2",
+         "name":"Leo Messi (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },      
+      {
+         "identifier":"worldcup2022leomessi3",
+         "name":"Leo Messi (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },      
+      {
+         "identifier":"messia1",
+         "name":"Messi Animado (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"messia2",
+         "name":"Messi Animado (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },      
+      {
+         "identifier":"messiballondor2021",
+         "name":"Messi Balon de Oro 2021",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },      
+      {
+         "identifier":"messi",
+         "name":"Pack Messi",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },       
+      {
          "identifier":"diamundialanimal1",
          "name":"Día Mundial del animal",
          "animated_sticker_pack":false,
