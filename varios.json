@@ -2,6 +2,18 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
    "ios_app_store_link":"",
    "sticker_packs":[
+       {
+         "identifier":"12octubre",
+         "name":"Día de la Diversidad",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"12octubre2",
+         "name":"Día de la Diversidad(2)",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
       {
          "identifier":"francocolapinto5",
          "name":"Franco Colapinto (5)",
@@ -721,12 +733,6 @@
          "name":"Día de Lealtad Peronista",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },
-      {
-         "identifier":"12octubre",
-         "name":"Día de la Diversidad",
-         "animated_sticker_pack":false,
-         "stickers":"12"
       },
       {
          "identifier":"minions1",
