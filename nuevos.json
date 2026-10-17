@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
        {
+         "identifier":"17octubre",
+         "name":"Día de Lealtad Peronista",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"17octubre2",
+         "name":"Dia de la Lealtad Peronista(2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+       {
          "identifier":"12octubre",
          "name":"Día de la Diversidad",
          "animated_sticker_pack":false,
@@ -1741,12 +1753,6 @@
          "name":"Día de la Madre (5)",
          "animated_sticker_pack":true,
          "stickers":"6"
-      },
-      {
-         "identifier":"17octubre",
-         "name":"Día de Lealtad Peronista",
-         "animated_sticker_pack":false,
-         "stickers":"15"
       },
       {
          "identifier":"minions1",
