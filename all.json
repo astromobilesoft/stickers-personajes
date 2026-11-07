@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
        {
+         "identifier":"elpapaenargentina2026",
+         "name":"El Papa Leon",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+       {
          "identifier":"diadelosmuertos",
          "name":"Dia de los Muertos",
          "animated_sticker_pack":false,
