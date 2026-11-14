@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2026bocajuniors1",
+         "name":"Boca Juniors(1)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
          "identifier":"clausura2026boca",
          "name":"Boca Campeón",
          "animated_sticker_pack":false,
