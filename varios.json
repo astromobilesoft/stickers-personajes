@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier": "gta6a",
+         "name": "GTA VI (1)",
+         "animated_sticker_pack": false,
+         "stickers": "20"
+      },
+      {
+         "identifier": "gta6b",
+         "name": "GTA VI (2)",
+         "animated_sticker_pack": false,
+         "stickers": "20"
+      },            
+      {
          "identifier":"17octubre",
          "name":"Día de Lealtad Peronista",
          "animated_sticker_pack":false,
